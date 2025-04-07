@@ -8,7 +8,8 @@
 
 > 📢本项目所有资源均基于开源CDN系统GoEdge开发  
 > 🌏GoEdge官网：[goedge.cloud][1]  
-> 🔀GoEdge仓库：[github.com/TeaOSLab/EdgeAdmin][2]  
+> 🔀GoEdge仓库：[github.com/TeaOSLab/EdgeAdmin][2]
+> 定制请带价联系
 
 # GoedgeAFF
 
