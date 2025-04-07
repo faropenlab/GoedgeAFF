@@ -1,3 +1,15 @@
+<h1 align="center">🧪Faropen Lab</h1>
+<div align="center">
+
+[![Forks](https://img.shields.io/github/forks/faropenlab/GoedgeAFF?style=flat&label=%F0%9F%8F%85Forks&labelColor=800080&color=912CEE)](https://github.com/faropenlab/GoedgeAFF/forks)
+[![Stars](https://img.shields.io/github/stars/faropenlab/GoedgeAFF?style=flat&label=%F0%9F%8C%9Fstars&labelColor=ff4f4f&color=ff8383)](https://github.com/faropenlab/GoedgeAFF)
+[![Telegram](https://img.shields.io/badge/%E2%9C%88%EF%B8%8FTelegram-Kuaien-0FB5EB?labelColor=235389&logoColor=white&style=flat)]([https://t.me/kuaien66](https://t.me/+iRD6nOMlXac5YWM0))
+</div>
+
+> 📢本项目所有资源均基于开源CDN系统GoEdge开发  
+> 🌏GoEdge官网：[goedge.cloud][1]  
+> 🔀GoEdge仓库：[github.com/TeaOSLab/EdgeAdmin][2]  
+
 # GoedgeAFF
 
 这是一个前端基于 Next.js 14 构建的现代化 Web 应用程序,后端使用Nodejs开发的，可用于CDN系统GOEDGE的邀请系统。
